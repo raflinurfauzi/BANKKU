@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="322.0" prefWidth="460.0" style="-fx-background-color: #4CC417;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="14.0" layoutY="11.0" prefHeight="31.0" prefWidth="452.0" text="SILAHKAN PILIH JUMLAH PENARIKAN">
+         <font>
+            <Font name="Agency FB Bold" size="34.0" />
+         </font>
+      </Label>
+      <Label layoutX="16.0" layoutY="59.0" prefHeight="31.0" prefWidth="438.0" text="PILIH TRANSAKSI LAIN UNTUK TRANSAKSI LAINNYA">
+         <font>
+            <Font name="Agency FB Bold" size="25.0" />
+         </font>
+      </Label>
+      <JFXButton layoutX="101.0" layoutY="103.0" prefHeight="51.0" prefWidth="106.0" style="-fx-background-color: #FBB117;" text="Rp. 50.000" textFill="#0d0d0d">
+         <font>
+            <Font name="Agency FB Bold" size="18.0" />
+         </font></JFXButton>
+      <JFXButton layoutX="240.0" layoutY="103.0" prefHeight="51.0" prefWidth="106.0" style="-fx-background-color: #FBB117;" text="Rp. 500.000" textFill="#0d0d0d">
+         <font>
+            <Font name="Agency FB Bold" size="18.0" />
+         </font></JFXButton>
+      <JFXButton layoutX="101.0" layoutY="175.0" prefHeight="51.0" prefWidth="106.0" style="-fx-background-color: #FBB117;" text="Rp. 100.000" textFill="#0d0d0d">
+         <font>
+            <Font name="Agency FB Bold" size="18.0" />
+         </font></JFXButton>
+      <JFXButton layoutX="240.0" layoutY="175.0" prefHeight="51.0" prefWidth="106.0" style="-fx-background-color: #FBB117;" text="Rp.1000.000" textFill="#0d0d0d">
+         <font>
+            <Font name="Agency FB Bold" size="18.0" />
+         </font></JFXButton>
+      <JFXButton layoutX="101.0" layoutY="246.0" prefHeight="51.0" prefWidth="106.0" style="-fx-background-color: #FBB117;" text="Rp. 200.000" textFill="#0d0d0d">
+         <font>
+            <Font name="Agency FB Bold" size="18.0" />
+         </font></JFXButton>
+      <JFXButton layoutX="240.0" layoutY="245.0" prefHeight="54.0" prefWidth="106.0" style="-fx-background-color: #FBB117;" text="TRANSAKSI LAIN" textFill="#0d0d0d">
+         <font>
+            <Font name="Agency FB Bold" size="14.0" />
+         </font></JFXButton>
+   </children>
+</AnchorPane>
